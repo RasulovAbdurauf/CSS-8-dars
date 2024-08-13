@@ -1,0 +1,95 @@
+.wrap{
+    width: 1200px;
+    margin-top: 300px;
+    margin-left: 300px;
+}
+.l{
+    color: gray;
+    float: left;
+    margin-left: 100px;
+}
+.i{
+    color: gray;
+    float: left;
+    margin-left: 100px;
+}
+.s{
+    color: gray;
+    float: left;
+    margin-left: 100px;
+}
+.f{
+    color: gray;
+    float: left;
+    margin-left: 100px;
+}
+.fl{
+    color: gray;
+    float: left;
+    margin-left: 100px;
+}
+.on{
+    width: 80px;
+    height: 40px;
+    list-style: none;
+    position: relative;
+    background-image: url(../rasm/06.jpg);
+    background-repeat: no-repeat;
+    background-position: -100px -225px;
+    margin: 2px 0;
+    margin-top: 50px;
+    margin-left: 73px;
+}
+.of{
+    width: 80px;
+    height: 40px;
+    list-style: none;
+    position: relative;
+    background-image: url(../rasm/06.jpg);
+    background-repeat: no-repeat;
+    background-position: -240px -225px;
+    margin: 2px 0;
+    margin-left: 216px;
+    margin-top: -40px;
+}
+.off{
+    width: 80px;
+    height: 40px;
+    list-style: none;
+    position: relative;
+    background-image: url(../rasm/06.jpg);
+    background-repeat: no-repeat;
+    background-position: -360px -225px;
+    margin: 2px 0;
+    margin-left: 345px;
+    margin-top: -40px;
+}
+.onof{
+    width: 80px;
+    height: 40px;
+    list-style: none;
+    position: relative;
+    background-image: url(../rasm/06.jpg);
+    background-repeat: no-repeat;
+    background-position: -480px -225px;
+    margin: 2px 0;
+    margin-left: 475px;
+    margin-top: -40px;
+}
+.yeah{
+    width: 80px;
+    height: 40px;
+    list-style: none;
+    position: relative;
+    background-image: url(../rasm/06.jpg);
+    background-repeat: no-repeat;
+    background-position: -620px -225px;
+    margin: 2px 0;
+    margin-left: 610px;
+    margin-top: -40px;
+}
+.img{
+    margin: 0;
+    padding: 0;
+    position: absolute;
+}
